@@ -1,7 +1,3 @@
-Tabii dostum 🙌 Sana tam optimize edilmiş, mobil uyumlu, hızlı yüklenen, SEO + sosyal medya entegrasyonlu bir HTML sayfası hazırlayabilirim. Hem sade hem de modern görünecek şekilde Tailwind CSS kullanalım (hiçbir ek dosya indirmene gerek yok, CDN’den bağlanıyor).
-
-Aşağıdaki kodu direkt kopyalayıp .html olarak kaydedebilirsin 👇
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
